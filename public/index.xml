@@ -6,8 +6,32 @@
     <description>Recent content on Security Blog</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Feb 2026 02:32:12 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 18:28:15 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Broken Brute Force Multiple Credentials</title>
+      <link>http://localhost:1313/portswigger/broken-brute-force-multiple-credentials/</link>
+      <pubDate>Wed, 18 Feb 2026 18:28:15 +0000</pubDate>
+      <guid>http://localhost:1313/portswigger/broken-brute-force-multiple-credentials/</guid>
+      <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
+&lt;p&gt;Exploit a logic flaw in the application&amp;rsquo;s brute-force protection to determine the password for the user &lt;code&gt;carlos&lt;/code&gt; and access their account page.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;target-information&#34;&gt;Target Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Victim Username:&lt;/strong&gt; &lt;code&gt;carlos&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Candidate Passwords:&lt;/strong&gt; [Provided Wordlist]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vulnerability:&lt;/strong&gt; Logic flaw in login rate-limiting/brute-force protection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;success-criteria&#34;&gt;Success Criteria&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify the correct password for &lt;code&gt;carlos&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Successfully log in and access the &lt;code&gt;/my-account&lt;/code&gt; page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;
+&lt;p&gt;lets try exploring how the login functionality works here by sending a normal request like this:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Server Side Parameter Pollution</title>
       <link>http://localhost:1313/portswigger/server-side-parameter-pollution/</link>

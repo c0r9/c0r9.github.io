@@ -10,6 +10,13 @@
     <atom:link href="http://localhost:1313/categories/portswigger/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Server Side Parameter Pollution</title>
+      <link>http://localhost:1313/portswigger/broken-brute-force-multiple-credentials/</link>
+      <pubDate>Sat, 14 Feb 2026 02:32:12 +0100</pubDate>
+      <guid>http://localhost:1313/portswigger/broken-brute-force-multiple-credentials/</guid>
+      <description>&lt;p&gt;brute_force_multiple_credentials.png&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Server Side Parameter Pollution</title>
       <link>http://localhost:1313/portswigger/server-side-parameter-pollution/</link>
       <pubDate>Sat, 14 Feb 2026 02:32:12 +0100</pubDate>
       <guid>http://localhost:1313/portswigger/server-side-parameter-pollution/</guid>

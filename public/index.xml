@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Security Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Security Blog</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Feb 2026 02:32:12 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server Side Parameter Pollution</title>
+      <link>http://localhost:1313/portswigger/server-side-parameter-pollution/</link>
+      <pubDate>Sat, 14 Feb 2026 02:32:12 +0100</pubDate>
+      <guid>http://localhost:1313/portswigger/server-side-parameter-pollution/</guid>
+      <description>&lt;p&gt;This is my first Hugo site using &lt;strong&gt;PaperMod&lt;/strong&gt; 🚀&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
